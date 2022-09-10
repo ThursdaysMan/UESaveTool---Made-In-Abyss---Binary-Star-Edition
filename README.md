@@ -1,5 +1,9 @@
-# UESaveTool
+# UESaveTool - Made In Abyss: Binary Star Edition
 A Node.js implementation for deserializing and converting GVAS/.sav files to JSON and vice-versa.
+
+This has been forked to create a new Made In Abyss: Binary Star version, for filetypes not supported by the original codebase.
+
+Many thanks to ch1pset for the original codebase. Please check out the original!
 
 [![npm version](https://badgen.net/npm/v/uesavetool)](https://www.npmjs.com/package/uesavetool) [![npm license](https://badgen.net/npm/license/uesavetool)](/LICENSE)
 
